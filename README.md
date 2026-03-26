@@ -29,9 +29,19 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 ## &nbsp;leetcode
 
 <div align="center">
-<br/>
-<img src="https://leetcard.jacoblin.cool/vinitpatil_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="65%"/>
-<br/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="center" width="130">
+<img src="https://media.tenor.com/OarBDFhC5YkAAAAi/kakashi-hatake-kakashi.gif" width="120" alt="kakashi"/>
+</td>
+<td align="center" valign="center">
+<img src="https://leetcard.jacoblin.cool/vinitpatil_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
+</td>
+<td align="center" valign="center" width="130">
+<img src="https://media.tenor.com/SBgRBMJPdRkAAAAi/might-guy-rock-lee.gif" width="120" alt="might guy"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
