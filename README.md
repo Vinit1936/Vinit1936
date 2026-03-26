@@ -12,18 +12,9 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
+## &nbsp;about
 
-```
-🎓  2nd Year IT @ MMCOE, Pune
-🔨  Building full-stack MERN projects
-⚡  Grinding LeetCode daily
-📚  Learning something new every day
-```
-
-<br/><br/><br/><br/>
-
-<br clear="right"/>
+I'm Vinit — a second year IT student from Pune who genuinely enjoys building things on the web. I got into development because I liked the idea of turning nothing into something functional, and that feeling hasn't gone away. Right now I'm deep into MERN stack development, building projects that actually work end-to-end. On the side I grind LeetCode — not for the clout, just because problem solving is a skill and I want to get better at it. Still early in the journey but moving fast.
 
 ---
 
@@ -31,14 +22,6 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark&perline=12" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="160" style="object-fit:cover;" alt="code gif"/>
 </div>
 
 ---
@@ -49,14 +32,6 @@
 <br/>
 <img src="https://leetcard.jacoblin.cool/vinitpatil_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="65%"/>
 <br/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="48%" alt="github gif"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="48%" alt="code gif 2"/>
 </div>
 
 ---
@@ -76,12 +51,4 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=vinitpatil19&style=flat-square&color=ffffff&label=profile+views" />
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIoieH0A5270K/giphy.gif" width="100%" height="120" style="object-fit:cover;" alt="footer gif"/>
 </div>
