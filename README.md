@@ -46,7 +46,7 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 &nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vinitdpatilwork193@gmail.com)
 &nbsp;&nbsp;
-[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/vinitpatil_dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vinitpatil_dev/)
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=vinitpatil19&style=flat-square&color=ffffff&label=profile+views" />
