@@ -50,7 +50,7 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 &nbsp;
 <a href="https://leetcode.com/u/vinitpatil_dev/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 &nbsp;
-<a href="https://x.com/VinitPatil193"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/vinitpatil_dev"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:vinitdpatilwork193@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
