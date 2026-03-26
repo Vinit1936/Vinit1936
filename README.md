@@ -32,13 +32,13 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" valign="center" width="130">
-<img src="https://tenor.com/view/kakashi-dancing-gif-19261904" width="120" alt="kakashi"/>
+<img src="https://media1.tenor.com/m/u2zOGD8sWCgAAAAC/kakashi-dancing.gif" width="120" alt="kakashi"/>
 </td>
 <td align="center" valign="center">
 <img src="https://leetcard.jacoblin.cool/vinitpatil_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
 </td>
 <td align="center" valign="center" width="130">
-<img src="https://tenor.com/view/might-guy-guy-naruto-shippuden-naruto-shinobi-gif-19861231" width="120" alt="might guy"/>
+<img src="https://media1.tenor.com/m/CPgsbLQn34MAAAAC/might-guy-guy.gif" width="120" alt="might guy"/>
 </td>
 </tr>
 </table>
