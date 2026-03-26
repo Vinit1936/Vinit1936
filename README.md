@@ -5,14 +5,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hey+%2C+i'm+vinit." alt="Typing SVG" />
 </div>
+<br>
 
-<br/>
-
----
-
-<br/>
-
-about
+## &nbsp;about
 
 I'm Vinit — a second year IT student from Pune who genuinely enjoys building things on the web. I got into development because I liked the idea of turning nothing into something functional, and that feeling hasn't gone away. Right now I'm deep into MERN stack development, building projects that actually work end-to-end. On the side I grind LeetCode — not for the clout, just because problem solving is a skill and I want to get better at it. Still early in the journey but moving fast.
 
