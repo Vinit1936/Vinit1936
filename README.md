@@ -46,7 +46,7 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
  
 <a href="https://www.linkedin.com/in/vinitpatil19/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/vinitpatil19"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vinit1936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href="https://leetcode.com/u/vinitpatil19/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 &nbsp;
