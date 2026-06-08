@@ -29,7 +29,7 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 <img src="https://media1.tenor.com/m/u2zOGD8sWCgAAAAC/kakashi-dancing.gif" width="150" height="150" style="object-fit:cover;" alt="kakashi"/>
 </td>
 <td align="center" valign="center">
-<img src="https://leetcard.jacoblin.cool/vinitpatil_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
+<img src="https://leetcard.jacoblin.cool/vinitpatil19?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
 </td>
 <td align="center" valign="center" width="160">
 <img src="https://media1.tenor.com/m/CPgsbLQn34MAAAAC/might-guy-guy.gif" width="150" height="150" style="object-fit:cover;" alt="might guy"/>
@@ -48,9 +48,9 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 &nbsp;
 <a href="https://github.com/vinitpatil19"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/vinitpatil_dev/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/vinitpatil19/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 &nbsp;
-<a href="https://x.com/vinitpatil_dev"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/vinitpatil193"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:vinitdpatilwork193@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
