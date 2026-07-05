@@ -13,11 +13,9 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 ---
 
 ## &nbsp;skills
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,react,nextjs,nodejs,express,bun,tailwind,mongodb,mysql,postgres,prisma,redis,docker,git,github,vscode,postman,figma&theme=dark&perline=12" />
 </div>
-
 ---
 
 ## &nbsp;leetcode
