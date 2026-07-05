@@ -56,6 +56,8 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
  
 </div>
 
+<center>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Vinit1936&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+</p
+ </center>
