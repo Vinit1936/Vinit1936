@@ -14,7 +14,13 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 
 ## &nbsp;skills
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python,react,nextjs,nodejs,express,bun,tailwind,mongodb,mysql,postgres,prisma,redis,docker,git,github,vscode,postman,figma&theme=dark&perline=12" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py,react,nextjs,nodejs,express,bun,tailwind&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,redis,docker,git,github,vscode,postman,figma,vercel&theme=dark" />
+
 </div>
 
 ---
