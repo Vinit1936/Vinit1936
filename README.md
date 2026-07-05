@@ -55,3 +55,7 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 <a href="mailto:vinitdpatilwork193@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vinit1936&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
