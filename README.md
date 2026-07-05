@@ -23,19 +23,13 @@ I'm Vinit — a second year IT student from Pune who genuinely enjoys building t
 ## &nbsp;leetcode
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="center" width="160">
-<img src="https://media1.tenor.com/m/u2zOGD8sWCgAAAAC/kakashi-dancing.gif" width="150" height="150" style="object-fit:cover;" alt="kakashi"/>
-</td>
-<td align="center" valign="center">
-<img src="https://leetcard.jacoblin.cool/vinitpatil19?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
-</td>
-<td align="center" valign="center" width="160">
-<img src="https://media1.tenor.com/m/CPgsbLQn34MAAAAC/might-guy-guy.gif" width="150" height="150" style="object-fit:cover;" alt="might guy"/>
-</td>
-</tr>
-</table>
+
+<img src="https://media1.tenor.com/m/u2zOGD8sWCgAAAAC/kakashi-dancing.gif" width="150" height="150" style="object-fit:cover; vertical-align:middle;" alt="kakashi"/>
+&nbsp;&nbsp;
+<img src="https://leetcard.jacoblin.cool/vinitpatil19?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" style="max-width:100%; height:auto; vertical-align:middle;" alt="leetcode stats"/>
+&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/CPgsbLQn34MAAAAC/might-guy-guy.gif" width="150" height="150" style="object-fit:cover; vertical-align:middle;" alt="might guy"/>
+
 </div>
 
 ---
