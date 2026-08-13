@@ -42,6 +42,7 @@ I'm Vinit — a third year IT student from Pune who genuinely enjoys building th
 </tr>
 </table>
 </div>
+
 ---
 
 ## &nbsp;find me
