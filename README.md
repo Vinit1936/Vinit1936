@@ -1,11 +1,13 @@
-```html
 <div align="center">
   <img src="./cdg2.gif" width="100%" alt="banner" />
 </div>
-```
 
-# Vinit Patil
+<pre>
+Vinit Patil
 
-full-stack // backend // building things //[recall.](https://recallx.tech) 
+:3
 
-[portfolio](https://vinitpatil.me) | [x](https://x.com/vinitpatil193) | [linkedin](https://www.linkedin.com/in/vinitpatil19/) | [leetcode](https://leetcode.com/u/vinitpatil19/) | [email](mailto:vinitdpatil.dev@gmail.com)
+full-stack // backend // building things // <a href="https://recallx.tech">recall</a>
+
+<a href="https://vinitpatil.me">portfolio</a> | <a href="https://github.com/Vinit1936">github</a> | <a href="https://www.linkedin.com/in/vinitpatil19/">linkedin</a> | <a href="https://x.com/vinitpatil193">x (twitter)</a> | <a href="mailto:vinitdpatil.dev@gmail.com">email</a> | <a href="https://leetcode.com/u/vinitpatil19/">leetcode</a>
+</pre>
