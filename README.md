@@ -1,66 +1,22 @@
+```html
 <div align="center">
-<img src="./cdg2.gif" width="100%" alt="banner"/>
+  <img src="./cdg2.gif" width="100%" alt="banner" />
 </div>
+```
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hey+%2C+i'm+vinit." alt="Typing SVG" />
-</div>
-
-## &nbsp;about
-
-I'm Vinit — a third year IT student from Pune who genuinely enjoys building things on the web. I got into development because I liked the idea of turning nothing into something functional, and that feeling hasn't gone away. Right now I'm deep into MERN stack development, building projects that actually work end-to-end. On the side I grind LeetCode — not for the clout, just because problem solving is a skill and I want to get better at it. Still early in the journey but moving fast.
-
----
-
-## &nbsp;skills
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py,react,nextjs,nodejs,express,bun,tailwind&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,redis,docker,git,github,vscode,postman,figma,vercel&theme=dark" />
-
-</div>
-
----
-
-## &nbsp;leetcode
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td align="center" valign="middle" width="160">
-<img src="https://media1.tenor.com/m/u2zOGD8sWCgAAAAC/kakashi-dancing.gif" width="150" height="150" alt="kakashi"/>
-</td>
-<td align="center" valign="middle">
-<img src="https://leetcard.jacoblin.cool/vinitpatil19?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" width="480" alt="leetcode stats"/>
-</td>
-<td align="center" valign="middle" width="160">
-<img src="https://media1.tenor.com/m/CPgsbLQn34MAAAAC/might-guy-guy.gif" width="150" height="150" alt="might guy"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## &nbsp;find me
- 
-<div align="center">
- 
-<a href="https://www.linkedin.com/in/vinitpatil19/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/Vinit1936"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/vinitpatil19/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<a href="https://x.com/vinitpatil193"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:vinitdpatilwork193@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
-</div>
+<h1 align="center">Vinit Patil</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinit1936&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p
+  Full-stack developer building products end-to-end.
+  <br />
+  <a href="https://vinitpatil.me">vinitpatil.me</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vinit1936">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/vinitpatil19/">LinkedIn</a> ·
+  <a href="https://x.com/vinitpatil193">X</a> ·
+  <a href="mailto:vinitdpatilwork193@gmail.com">Email</a>
+  <br />
+  <a href="https://leetcode.com/u/vinitpatil19/">LeetCode</a>
+</p>
