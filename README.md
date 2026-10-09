@@ -4,19 +4,8 @@
 </div>
 ```
 
-<h1 align="center">Vinit Patil</h1>
+# Vinit Patil
 
-<p align="center">
-  Full-stack developer building products end-to-end.
-  <br />
-  <a href="https://vinitpatil.me">vinitpatil.me</a>
-</p>
+full-stack // backend // building things //[recall.](https://recallx.tech) 
 
-<p align="center">
-  <a href="https://github.com/Vinit1936">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/vinitpatil19/">LinkedIn</a> ·
-  <a href="https://x.com/vinitpatil193">X</a> ·
-  <a href="mailto:vinitdpatilwork193@gmail.com">Email</a>
-  <br />
-  <a href="https://leetcode.com/u/vinitpatil19/">LeetCode</a>
-</p>
+[portfolio](https://vinitpatil.me) | [x](https://x.com/vinitpatil193) | [linkedin](https://www.linkedin.com/in/vinitpatil19/) | [leetcode](https://leetcode.com/u/vinitpatil19/) | [email](mailto:vinitdpatilwork193@gmail.com)
