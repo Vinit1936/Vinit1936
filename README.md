@@ -8,4 +8,4 @@
 
 full-stack // backend // building things //[recall.](https://recallx.tech) 
 
-[portfolio](https://vinitpatil.me) | [x](https://x.com/vinitpatil193) | [linkedin](https://www.linkedin.com/in/vinitpatil19/) | [leetcode](https://leetcode.com/u/vinitpatil19/) | [email](mailto:vinitdpatilwork193@gmail.com)
+[portfolio](https://vinitpatil.me) | [x](https://x.com/vinitpatil193) | [linkedin](https://www.linkedin.com/in/vinitpatil19/) | [leetcode](https://leetcode.com/u/vinitpatil19/) | [email](mailto:vinitdpatil.dev@gmail.com)
