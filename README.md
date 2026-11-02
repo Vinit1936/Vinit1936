@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./cdg2.gif" width="100%" alt="banner" />
-</div>
+</div> -->
 
 <pre>
 Vinit Patil
